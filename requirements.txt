@@ -39,7 +39,7 @@ colorama==0.4.1
 conda==4.6.4
 constantly==15.1.0
 contextlib2==0.5.5
-cryptography==2.5
+cryptography==3.2
 cvxopt==1.2.1
 cycler==0.10.0
 cypari2==2.0.3
