@@ -40,7 +40,7 @@ conda==4.6.4
 constantly==15.1.0
 contextlib2==0.5.5
 cryptography==2.5
-cvxopt==1.2.1
+cvxopt==1.2.7
 cycler==0.10.0
 cypari2==2.0.3
 cysignals==1.9.0
